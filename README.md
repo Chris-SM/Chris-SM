@@ -15,9 +15,12 @@ Conhecimento Básico em:
 |![](fotos/css.png)|<h3>CSS</h3>|
 |![](fotos/js.png)|<h3>Java Script</h3>|
 
+  
+|<h2>Estatisticas</h2>|
+|---------------------------------------------------------------|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chris-SM&theme=tokyonight&locale=pt-br&show_icons=true)|
+  
 
-<h2>Estatisticas</h2>
-![](https://github-readme-stats.vercel.app/api?username=Chris-SM&show_icons=true&locale=pt-br&count_private=false&theme=tokyonight)
 
 <!--
 **Chris-SM/Chris-SM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
