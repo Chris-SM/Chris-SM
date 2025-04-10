@@ -3,7 +3,7 @@
 <br>
 
 ### Um aluno da ETEC Adolpho Berezin
-Novo na área. Cerca de 2 anos minha primeira experiência na área  
+Novo na área. Cerca de 3 anos minha primeira experiência na área  
 
 Conhecimento Básico em:
 
@@ -16,8 +16,8 @@ Conhecimento Básico em:
 |![](fotos/js.png)|<h3>Java Script</h3>|
 
 
-|<h2>Estatisticas</h2>|
-|![](https://github-readme-stats.vercel.app/api?username=Chris-SM&show_icons=true&locale=pt-br&count_private=false&theme=tokyonight)|
+<h2>Estatisticas</h2>
+![](https://github-readme-stats.vercel.app/api?username=Chris-SM&show_icons=true&locale=pt-br&count_private=false&theme=tokyonight)
 
 <!--
 **Chris-SM/Chris-SM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
